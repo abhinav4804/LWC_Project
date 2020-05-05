@@ -1,0 +1,170 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/addressComponent": [
+                "addressComponent/addressComponent.js"
+            ],
+            "c/apexImperativeMethod": [
+                "apexImperativeMethod/apexImperativeMethod.js"
+            ],
+            "c/apiFunction": [
+                "apiFunction/apiFunction.js"
+            ],
+            "c/beerList": [
+                "beerList/beerList.js"
+            ],
+            "c/beerSearch": [
+                "beerSearch/beerSearch.js"
+            ],
+            "c/beerTile": [
+                "beerTile/beerTile.js"
+            ],
+            "c/boundary": [
+                "boundary/boundary.js"
+            ],
+            "c/calculatorCmp": [
+                "calculatorCmp/calculatorCmp.js"
+            ],
+            "c/cartDetail": [
+                "cartDetail/cartDetail.js"
+            ],
+            "c/cartItem": [
+                "cartItem/cartItem.js"
+            ],
+            "c/childAuraLwc": [
+                "childAuraLwc/childAuraLwc.js"
+            ],
+            "c/childComp": [
+                "childComp/childComp.js"
+            ],
+            "c/contactList": [
+                "contactList/contactList.js"
+            ],
+            "c/contactTile": [
+                "contactTile/contactTile.js"
+            ],
+            "c/customLabel": [
+                "customLabel/customLabel.js"
+            ],
+            "c/customLookup": [
+                "customLookup/customLookup.js"
+            ],
+            "c/designAttribute": [
+                "designAttribute/designAttribute.js"
+            ],
+            "c/example": [
+                "example/example.js"
+            ],
+            "c/getRecord": [
+                "getRecord/getRecord.js"
+            ],
+            "c/grandchild": [
+                "grandchild/grandchild.js"
+            ],
+            "c/helloBinding": [
+                "helloBinding/helloBinding.js"
+            ],
+            "c/helloWorld": [
+                "helloWorld/helloWorld.js"
+            ],
+            "c/hooksExamples": [
+                "hooksExamples/hooksExamples.js"
+            ],
+            "c/htmlEventsBasic": [
+                "htmlEventsBasic/htmlEventsBasic.js"
+            ],
+            "c/ifElseDemo": [
+                "ifElseDemo/ifElseDemo.js"
+            ],
+            "c/iteratorDemo": [
+                "iteratorDemo/iteratorDemo.js"
+            ],
+            "c/ldsCreateRecord": [
+                "ldsCreateRecord/ldsCreateRecord.js"
+            ],
+            "c/ldsDemo": [
+                "ldsDemo/ldsDemo.js"
+            ],
+            "c/ldsEditRecord": [
+                "ldsEditRecord/ldsEditRecord.js"
+            ],
+            "c/ldsViewRecord": [
+                "ldsViewRecord/ldsViewRecord.js"
+            ],
+            "c/lwc2Aura": [
+                "lwc2Aura/lwc2Aura.js"
+            ],
+            "c/lwcaura": [
+                "lwcaura/lwcaura.js"
+            ],
+            "c/metaExaples": [
+                "metaExaples/metaExaples.js"
+            ],
+            "c/namedSlot": [
+                "namedSlot/namedSlot.js"
+            ],
+            "c/objectInfoAPI": [
+                "objectInfoAPI/objectInfoAPI.js"
+            ],
+            "c/opportunityDetails": [
+                "opportunityDetails/opportunityDetails.js"
+            ],
+            "c/orderDetail": [
+                "orderDetail/orderDetail.js"
+            ],
+            "c/parentComp": [
+                "parentComp/parentComp.js"
+            ],
+            "c/propDemo": [
+                "propDemo/propDemo.js"
+            ],
+            "c/quickCase": [
+                "quickCase/quickCase.js"
+            ],
+            "c/recordList": [
+                "recordList/recordList.js"
+            ],
+            "c/searchComponent": [
+                "searchComponent/searchComponent.js"
+            ],
+            "c/sharedmisc": [
+                "sharedmisc/sharedmisc.js"
+            ],
+            "c/showDate": [
+                "showDate/showDate.js"
+            ],
+            "c/showToast": [
+                "showToast/showToast.js"
+            ],
+            "c/slotsDemo": [
+                "slotsDemo/slotsDemo.js"
+            ],
+            "c/slotsWrapper": [
+                "slotsWrapper/slotsWrapper.js"
+            ],
+            "c/ssample": [
+                "ssample/ssample.js"
+            ],
+            "c/uiRecordApiDemo": [
+                "uiRecordApiDemo/uiRecordApiDemo.js"
+            ],
+            "c/utility": [
+                "utility/utility.js"
+            ],
+            "c/wireMethod": [
+                "wireMethod/wireMethod.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}
